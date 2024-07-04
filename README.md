@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cole98ster
+- 👀 I’m interested in sports, and music.
+- 🌱 I’m currently learning coding in html, css, python and javascript.
+- 📫 How to reach me : Instagram: @cole.neild  Email: cole.neild@metergysolutions.com
