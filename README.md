@@ -9,4 +9,4 @@ Learning & Growth: Continuously improving my skills in technology and design.
 
 📚 Currently working on projects related to web development and data analysis.
 
-📫 How to reach me : Instagram: @cole.neild  Email: cole.neild@metergysolutions.com
+📫 How to reach me : Email: cole.neild@gmail.com
