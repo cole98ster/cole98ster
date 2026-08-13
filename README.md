@@ -1,18 +1,17 @@
 # Cole Neild
 
-## About Me
-Hi, I'm **Cole Neild** [](https://github.com/cole98ster), an engineering student at Queen's University with a passion for tackling challenges through technology and innovation.
+## Electrical Engineering student @ Queen's University | IT Operations & Automation Enthusiast
 
-### Interests
-- **Coding**: Building practical projects and exploring new programming languages.
-- **Engineering Applications**: Applying technical skills to solve real-world problems.
-- **Continuous Learning**: Staying curious and expanding my expertise in software development and design.
+Passionate about bridging hardware and software through automation, scripting, and systems management. Currently interning at Hydro One, where I work on enterprise endpoint security, vulnerability assessments, and large-scale Windows migrations using Microsoft Intune and PowerShell.
 
-### Current Projects
-I'm currently diving into:
-- Web development projects to create user-friendly applications.
-- Crafting a complex Stock Application to help with Options and Financial Analysis using React-Naitve.
-- Data analysis to uncover insights from complex datasets.
+What I work on:
 
-### Contact
-Reach out to me at [cole.neild@gmail.com](mailto:cole.neild@gmail.com) for collaboration or inquiries.
+PowerShell automation for IT operations and endpoint management
+
+Python scripts for data analysis and workflow optimization
+
+Electrical engineering projects involving circuit design and embedded systems
+
+Building tools that solve real operational problems
+
+Tech stack: Python, PowerShell, Microsoft Intune, Oracle CCB, Windows enterprise environments
