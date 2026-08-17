@@ -1,6 +1,6 @@
 # Cole Neild
 
-## Electrical Engineering student @ Queen's University | IT Operations & Automation Enthusiast
+## Electrical Engineering student @ Queen's University | IT Operations & Automation @ Hydro One
 
 Passionate about bridging hardware and software through automation, scripting, and systems management. Currently interning at Hydro One, where I work on enterprise endpoint security, vulnerability assessments, and large-scale Windows migrations using Microsoft Intune and PowerShell.
 
